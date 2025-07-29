@@ -1,0 +1,10 @@
+{
+    "receita": 132520.0,
+    "meses": 12,
+    "impostos_pct": 0.06,
+    "contingencia_pct": 0.01,
+    "receita_clube": 534400.0,
+    "receita_nao_membros": 0.0,
+    "growth_receita": 0.083,
+    "capex": 1687000.0
+}
